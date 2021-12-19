@@ -1,0 +1,27 @@
+branch Table:
+10,CSE,jhon,
+11,ECE,smith,
+12, Civil,steave,
+
+cafeteria Table:
+121,MC-donalds,William,1,
+122,KFC,watt,2,
+123,Mr_chef,ravi,3,
+
+hostel Table:
+1,M,akash nagar,peter,
+2,F,Amberpet,kuba,
+3,M,akainavi,madav,
+4,F,bn reddy,sai,
+
+room Table:
+201,4,1,
+202,6,2,
+205,4,2,
+
+students Table:
+50,jeevan,M,CSE,201,10,
+51,balu,M,ECE,202,11,
+52,saketh,M,Civil,202,12,
+53,moses,M,CSE,201,10,
+
